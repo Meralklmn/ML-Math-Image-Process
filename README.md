@@ -52,6 +52,7 @@ GitHub'da bulunan Tesseract tessdatadeposundan eng.traineddataindirilebilir.
 Visual Studio'yu açın, projeyi yükleyin ve Build -> Build Solution(Derle -> Çözümü Derle) seçeneğiyle projeyi derleyin.
 
 🚀 Kullanım
+
 Uygulamayı ortalama.
 
 "Görsel Seç ve Oku" düğmesine tıklayın.
