@@ -1,6 +1,6 @@
-Harika bir fikir! Projenizi GitHub'da paylaşırken iyi bir README dosyası, kullanıcıların ve diğer geliştiricilerin projenizin ne olduğunu, ne işe yaradığını ve nasıl birleştiğini hızlı bir şekilde anlamaları için kritik soğutuculara sahiptir.
 
-İşte "ML Math Image Process" projeniz için Markdown içeriği eksiksiz bir README dosyasıdır. Bu şekilde doğrudan GitHub deponuzun ana dizinine README.mdkaydederek kaydedebilirsiniz.
+
+
 
 📸 ML Matematik Görüntü İşlemi
 Bu proje, bir görüntüdeki (resim) kalıcı ifadeleri inceleme (OCR) ve tanımlanan bu ifadeleri uzaktan olarak çözerek sonucunu görüntülemek için tasarlanmış bir Windows Forms uygulamasıdır.
