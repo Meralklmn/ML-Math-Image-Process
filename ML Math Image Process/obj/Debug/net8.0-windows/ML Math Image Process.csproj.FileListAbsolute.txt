@@ -1,0 +1,26 @@
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\MatematikselIfadeCozucu.Form1.resources
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\x86\leptonica-1.82.0.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\x86\tesseract50.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\x64\leptonica-1.82.0.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\x64\tesseract50.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\ML Math Image Process.exe
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\ML Math Image Process.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\ML Math Image Process.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\ML Math Image Process.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\ML Math Image Process.pdb
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\NCalc.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\NLog.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\Tesseract.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\bin\Debug\net8.0-windows\TesseractSharp.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math .0C421998.Up2Date
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\refint\ML Math Image Process.dll
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.pdb
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ML Math Image Process.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\ML Math Image Process\ML Math Image Process\ML Math Image Process\obj\Debug\net8.0-windows\ref\ML Math Image Process.dll

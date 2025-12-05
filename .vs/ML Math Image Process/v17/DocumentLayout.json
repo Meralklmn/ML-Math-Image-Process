@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ml math image process\\ml math image process\\ml math image process\\ml math image process.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|solutionrelative:ml math image process\\ml math image process.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ml math image process\\ml math image process\\ml math image process\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|solutionrelative:ml math image process\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ml math image process\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|solutionrelative:ml math image process\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ml math image process\\ml math image process\\ml math image process\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|solutionrelative:ml math image process\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ml math image process\\ml math image process\\ml math image process\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1487B193-8371-4B61-82C9-BA2EA191BD53}|ML Math Image Process\\ML Math Image Process.csproj|solutionrelative:ml math image process\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ML Math Image Process.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process.csproj",
+              "RelativeDocumentMoniker": "ML Math Image Process\\ML Math Image Process.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process.csproj",
+              "RelativeToolTip": "ML Math Image Process\\ML Math Image Process.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-05T14:45:26.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Program.cs",
+              "RelativeDocumentMoniker": "ML Math Image Process\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Program.cs",
+              "RelativeToolTip": "ML Math Image Process\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:45:41.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Form1.cs",
+              "RelativeDocumentMoniker": "ML Math Image Process\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Form1.cs",
+              "RelativeToolTip": "ML Math Image Process\\Form1.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAIAwwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:40:40.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ML Math Image Process\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Form1.Designer.cs",
+              "RelativeToolTip": "ML Math Image Process\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:38:49.066Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Form1.cs",
+              "RelativeDocumentMoniker": "ML Math Image Process\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\ML Math Image Process\\ML Math Image Process\\ML Math Image Process\\Form1.cs [Design]",
+              "RelativeToolTip": "ML Math Image Process\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T13:40:16.186Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
